@@ -1,7 +1,8 @@
 # CA-hackAms-
 
 
-Solving persistent and future governence issues in DAOs and bringing that forward to broder socciety. Citizens’ assemblies with web3 technologies for and of the future
+# Solving persistent and future governence issues in DAOs and bringing that forward to broder society. 
+## Citizens’ assemblies with web3 technologies for and of the future 
 
 Representative democrcies aren’t solving a lot of the issues we face in the world as they are weighted towards solving problems for their constituent parties. There are so many obvious drawbacks.
 
